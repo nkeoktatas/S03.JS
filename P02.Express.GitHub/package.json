@@ -1,0 +1,14 @@
+{
+  "name": "P02.Express.GitHub",
+  "version": "0.0.0",
+  "description": "P02.Express.GitHub",
+  "main": "app.js",
+  "author": {
+    "name": "bansaghia",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "serve-static": "^1.10.0"
+  }
+}
